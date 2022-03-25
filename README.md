@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Jaszsupple
-- 👀 I’m interested in Software, Web and applications Devlopment
-- 🌱 I’m currently learning Programing- Java and Operating Systems
-- 💞️ I’m looking to collaborate on various Projects
-- 📫 How to reach me: Contact me via Git.
+Back end Ops
 
 <!---
 Jaszsupple/Jaszsupple is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
